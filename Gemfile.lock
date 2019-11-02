@@ -130,7 +130,7 @@ GEM
       activesupport (~> 3.0)
       railties (~> 3.0)
       rspec (~> 2.5.0)
-    rubyzip (0.9.4)
+    rubyzip (2.0.0)
     selenium-webdriver (0.2.0)
       childprocess (>= 0.1.7)
       ffi (>= 1.0.7)
